@@ -1,0 +1,7 @@
+c:\Users\gdky\documents\visual studio 2015\Projects\ReName\Common\bin\Debug\Common.dll
+c:\Users\gdky\documents\visual studio 2015\Projects\ReName\Common\bin\Debug\Common.pdb
+c:\Users\gdky\documents\visual studio 2015\Projects\ReName\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+c:\Users\gdky\documents\visual studio 2015\Projects\ReName\Common\obj\Debug\Common.dll
+c:\Users\gdky\documents\visual studio 2015\Projects\ReName\Common\obj\Debug\Common.pdb
+C:\Users\gdky\Documents\Visual Studio 2015\Projects\ReName\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gdky\Documents\Visual Studio 2015\Projects\ReName\Common\bin\Debug\Newtonsoft.Json.xml

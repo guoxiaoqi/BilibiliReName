@@ -1,0 +1,6 @@
+C:\Users\gdky\Documents\Visual Studio 2015\Projects\ReName\Common\bin\Release\Common.dll
+C:\Users\gdky\Documents\Visual Studio 2015\Projects\ReName\Common\bin\Release\Common.pdb
+C:\Users\gdky\Documents\Visual Studio 2015\Projects\ReName\Common\bin\Release\Newtonsoft.Json.dll
+C:\Users\gdky\Documents\Visual Studio 2015\Projects\ReName\Common\bin\Release\Newtonsoft.Json.xml
+C:\Users\gdky\Documents\Visual Studio 2015\Projects\ReName\Common\obj\Release\Common.dll
+C:\Users\gdky\Documents\Visual Studio 2015\Projects\ReName\Common\obj\Release\Common.pdb
